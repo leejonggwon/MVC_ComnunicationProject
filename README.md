@@ -155,12 +155,19 @@
   <img src="https://github.com/user-attachments/assets/13c19e33-981d-4e9e-baa9-eff6d3d69ddb" width="700" />
 </p>
 
+### 3) 댓글 기능
+▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/497e0007-fd4a-4e21-be19-4a9182b9c75f" width="700" />
+</p>
+
 
 ### 3) 답글 기능
 ▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c445a74-0bcf-481b-8645-505f33f15f3c" width="700" />
 </p>
+
 
 
 
