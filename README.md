@@ -134,6 +134,20 @@
   <img src="https://github.com/user-attachments/assets/27e3c6e3-7af6-4265-9466-156cb283d4f6" width="1000" />
 </p>
 
+### 4) 프로필수정기능
+▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
+<p align="center">
+  <img src=""https://github.com/user-attachments/assets/8901744e-cbfa-407b-9978-54b4e52cdc90" width="1000" />
+</p>
+
+
+### 3) 프로필수정기능
+▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27e3c6e3-7af6-4265-9466-156cb283d4f6" width="1000" />
+</p>
+
+
 
 
 <br>
