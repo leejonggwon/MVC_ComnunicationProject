@@ -2,7 +2,7 @@
 ### 서비스명
 ▪ MVC Communication 
 ### 서비스설명
-▪ 본 프로젝트는 스프링(Spring) 프레임워크와 MVC(Model-View-Controller) 아키텍처를 기반으로 한 커뮤니케이션 프로젝트입니다. <br>
+▪ 본 프로젝트는 스프링(Spring) 프레임워크와 MVC 3Tier 아키텍처를 기반으로 한 커뮤니케이션 프로젝트입니다. <br>
 ▪ 회원관리기능, 게시글기능, 좋아요기능, 댓글기능, 답글기능, 조회수기능, 검색기능, 페이징기능, 게시글 작성자 프로필기능, 좌석발권 기능등을 제공하며 비동기 통신(AJAX)을 통해 실시간으로 목록을 갱신함으로 사용자 경험을 향상시켰습니다. <br>
 
 ### 기능목록과 세부기능
@@ -67,14 +67,20 @@
 ## 2. 개발환경
 ▪ 개발 언어: Java 1.8 <br>
 ▪ 프레임워크: Spring Framework 5.0.7.RELEASE <br>
-▪ 데이터베이스: MySQL 5.1 <br>
-▪ 프론트엔드: JSP, jQuery, AJAX, HTML/CSS <br>
-▪ 개발도구: eGovFrame 4.0.0, Eclipse, Apache Tomcat 9 <br>
-
+▪ 데이터베이스: MySQL 5.1 + MyBatis 3.4.6 <br>
+▪ 웹 레이어: JSP, JSTL, Servlet 3.1, jQuery, AJAX, HTML/CSS <br>
+▪ 로깅/유틸: SLF4J, Log4j, Lombok <br>
+▪ 데이터베이스 연결: HikariCP, Spring JDBC <br>
+▪ 개발 도구: eGovFrame 4.0.0, Eclipse, Apache Tomcat 9 <br>
 <br>
 
 ## 3. 주요기능 구성 
 ### 3Tier 아키텍처
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60435bdd-9784-43a1-a2c1-194e88dab72d" width="1000" />
+</p>
+
 ### 1) Controller / RestController
 ▪ MainController <br>
 ▪ MemberController / MemeberRestController <br>
@@ -101,10 +107,10 @@
 <br>
 
 ## 4. 개발 포인트
-▪ Spring MVC 패턴을 적용하여 Controller - DAO - Mapper 계층 구조로 설계 <br>
+▪ Spring MVC 3Tier 패턴을 적용하여 Controller - Service - Model 계층 구조로 설계 <br>
 ▪ AJAX 비동기 통신을 통해 페이지 새로고침 없이 기능 구현 <br>
 ▪ MyBatis Mapper XML을 활용해 SQL을 명확하게 관리 <br>
-▪ JSP + jQuery로 직관적이고 간결한 사용자 UI 제공 <br>
+▪ JSP와 jQuery, Bootstrap 3을 활용하여 직관적이고 반응형이며 간결한 사용자 인터페이스 제공 <br>
 
 <br>
 
