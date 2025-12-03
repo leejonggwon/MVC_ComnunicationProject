@@ -142,10 +142,10 @@
 
 
 
-### 3) 프로필수정기능
+### 3) 게시글 이미지 업로드 기능
 ▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27e3c6e3-7af6-4265-9466-156cb283d4f6" width="1000" />
+  <img src="https://github.com/user-attachments/assets/47fa076c-effa-44d1-91db-147b3d47d843" width="1000" />
 </p>
 
 
